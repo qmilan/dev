@@ -1,2 +1,1 @@
-# dev
-android dev
+# 26.02 created new project
